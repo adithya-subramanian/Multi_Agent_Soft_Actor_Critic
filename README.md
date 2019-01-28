@@ -20,7 +20,7 @@ A Pytorch Implementation of Multi Agent Soft Actor Critic
   <li> Numpy (1.14.5) : pip3 install numpy</li>
   <li> Matplotlib (3.0.2) : pip3 install matplotlib</li>
   <li> Jupyter notebook : pip3 install jupyter </li>
-  <li> Download the environment from <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip">here</a> and place it in the same folder as that of CC.ipynb file  </li>
+  <li> Download the environment from <a href="https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip">here</a> and place it in the same folder as that of Tennis.ipynb file  </li>
 </ol>
 
 # Network details
