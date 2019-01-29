@@ -50,4 +50,4 @@ step 4 : Run all cells in the Tennis.ipynb file
 `
 # Acknowledgment
 
-Certain parts of SAC_agent.py,model.py and Tennis.ipynb has been partially taken from the Udacity's deep reinforcement learning Nanodegree.
+Certain parts of SAC.py,model.py and Tennis.ipynb has been partially taken from the Udacity's deep reinforcement learning Nanodegree.
